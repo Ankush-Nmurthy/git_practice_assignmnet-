@@ -6,13 +6,13 @@ for(let j=string.length-1;j>=0;j++){
    
 bag=bag+string[i];
 
-if(string[i]==bag){
+if(string==bag){
 
 console.log("is palindrome);
 
 }else{
 
-console.log(is palindrome);
+console.log(is not palindrome);
 
 }
 
