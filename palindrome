@@ -1,0 +1,19 @@
+let string="masai";
+
+let bag="";
+
+for(let j=string.length-1;j>=0;j++){
+   
+bag=bag+string[i];
+
+if(string[i]==bag){
+
+console.log("is palindrome);
+
+}else{
+
+console.log(is palindrome);
+
+}
+
+}
